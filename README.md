@@ -1,3 +1,7 @@
+[![CI](https://github.com/divinedev111/airbag/actions/workflows/ci.yml/badge.svg)](https://github.com/divinedev111/airbag/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/divinedev111/airbag)](https://goreportcard.com/report/github.com/divinedev111/airbag)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # airbag
 
 Self-hosted crash monitoring with structured reports. Lightweight Sentry alternative — single binary, SQLite storage, Go SDK included.
